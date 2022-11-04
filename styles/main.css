@@ -1,0 +1,25 @@
+
+body {
+  font-family: sans-serif;
+  background: #cef9ff;
+  color: #000;
+}
+#special {
+  cursor: pointer;
+}
+
+img {
+  cursor: pointer;
+}
+}
+
+
+
+}
+.rotate-right {
+  transform: rotate(4deg);
+}
+
+.rotate-left {
+  transform: rotate(-8deg);
+}
